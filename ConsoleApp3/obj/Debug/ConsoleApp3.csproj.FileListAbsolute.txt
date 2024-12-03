@@ -1,0 +1,7 @@
+D:\Демидов\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+D:\Демидов\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+D:\Демидов\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+D:\Демидов\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.AssemblyReference.cache
+D:\Демидов\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+D:\Демидов\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+D:\Демидов\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
